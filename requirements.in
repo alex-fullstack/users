@@ -1,0 +1,16 @@
+aiohttp
+aiopg
+trafaret
+trafaret_config
+sqlalchemy
+aioredis
+PyJWT
+sqlalchemy-utils
+aiohttp_validate
+passlib
+pytest-aiohttp
+docker
+psycopg2
+alembic
+redis
+pytest
